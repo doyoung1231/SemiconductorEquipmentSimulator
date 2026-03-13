@@ -169,13 +169,13 @@ DIFF_01 → Port 9003
 ## 📸 실행 화면
 
 ### Dashboard
-![dashboard](docs/dashboard.png)
+![dashboard](dashboard.png)
 
 ### Chart
-![chart](docs/chart.png)
+![chart](chart.png)
 
 ### Alarm History
-![alarm](docs/alarm.png)
+![alarm](alarm.png)
 
 ### DB Viewer
-![dbviewer](docs/dbviewer.png)
+![dbviewer](dbviewer.png)
